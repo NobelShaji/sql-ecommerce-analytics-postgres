@@ -1,6 +1,14 @@
 SQL E-commerce Analytics (PostgreSQL)
 ====================================
 
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-blue)]()
+[![Docker](https://img.shields.io/badge/Docker-ready-informational)]()
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+**Blurb:** Production-minded SQL mini-warehouse: e-commerce schema, synthetic data, RFM + cohort MVs, inventory trigger, and showcase queries.  
+Built for fast cloning and demoing SQL skills.
+
 A mini analytics warehouse on PostgreSQL 16: realistic schema, synthetic data, materialized views (RFM, cohort retention), a daily revenue view, an inventory trigger, and showcase queries.
 
 Quickstart (Docker)
