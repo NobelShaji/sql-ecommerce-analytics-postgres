@@ -34,7 +34,24 @@ What’s inside
 
 Screenshots
 -----------
-Add PNGs to docs/screenshots (daily revenue MA7, top categories 30d, basket pairs, RFM leaders)
+## Screenshots
+
+### Daily Revenue (7-Day Moving Average)
+![Daily Revenue](docs/screenshots/revenue_ma7.png)  
+> 📊 Shows daily gross revenue and a 7-day moving average trend to identify short-term performance fluctuations and seasonality.
+
+### Top Categories (Last 30 Days)
+![Top Categories](docs/screenshots/top_categories.png)  
+> 🧩 Highlights the highest-earning product categories over the past month, useful for marketing and inventory planning.
+
+### Product Basket Pairs
+![Basket Pairs](docs/screenshots/basket_pairs.png)  
+> 🛒 Reveals which products are most frequently bought together—helpful for recommendation engines and cross-selling strategy.
+
+### RFM Leaders
+![RFM Leaders](docs/screenshots/rfm_leaders.png)  
+> 💎 Lists customers with the strongest Recency-Frequency-Monetary (RFM) scores, helping identify high-value, loyal customers.
+
 
 License
 -------
